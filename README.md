@@ -11,7 +11,9 @@ Our solutions to Online Qualification Round of Google Hash Code 2019
   * D – Pet pictures: 68405 points ([AlgoD.py](https://github.com/NaisilaPuka/HashCode2019/blob/master/src/AlgoD.py))
   * E – Shiny selfies: 146871 points ([AlgoE.py](https://github.com/NaisilaPuka/HashCode2019/blob/master/src/AlgoE.py))
 
-**Rank**: 3789/6671
+**Rank**:
+ * 3789/6671 worldwide
+ * 9/24 @Bilkent Hub
 
 **Members and Contributions**: 
   * [Naisila Puka](https://github.com/NaisilaPuka): Algorithm Code
