@@ -21,3 +21,5 @@ Our solutions to Online Qualification Round of Google Hash Code 2019
 **Team Photo**
 
 <img src="https://i.ibb.co/Hpr6fQn/2019-02-28-23-40-39-018.jpg" alt="chain_coders" width="350"/>
+
+@Bilkent Hub :heart: From left to right: Kunduz, Fatbardh, Naisila
